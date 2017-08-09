@@ -7,6 +7,7 @@ int main()
 	int conflict = 5;
 
 	char[20] = "confliction  222222";
+	char[20] = "confliction 11111";
 
 	char[20] str = "float added";
 
