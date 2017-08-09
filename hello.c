@@ -10,6 +10,7 @@ int main()
 	char[20] conflictString = "no conflict";
 
 	int 1330;
+	float abasdas;
 	adsdsaasads
 		cmnkdkadmasm
 		ewmqemqklekk
