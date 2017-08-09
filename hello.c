@@ -6,7 +6,7 @@ int main()
 	float conff = 1.1f;
 	int conflict = 5;
 
-	char[20] = "confliction deleted";
+	char[20] = "confliction  222222";
 
 	char[20] str = "float added";
 
