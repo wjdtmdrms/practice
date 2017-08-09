@@ -6,6 +6,8 @@ int main()
 	float conff = 1.1f;
 	int conflict = 5;
 
+	char[10] str = "mastring";
+
     printf("hello, world!\n");
     return 0;
 }
