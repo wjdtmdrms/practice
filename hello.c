@@ -13,6 +13,7 @@ int main()
 	adsdsaasads
 		cmnkdkadmasm
 		ewmqemqklekk
+		int 3120932;
 
 	char[20] str = "float added";
 	int a = 23113;
