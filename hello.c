@@ -9,6 +9,10 @@ int main()
 	char[20] conflictString = "no conflict";
 	char[20] conflictString = "no conflict";
 
+	adsdsaasads
+		cmnkdkadmasm
+		ewmqemqklekk
+
 	char[20] str = "float added";
 	int a = 23113;
 	int b = 5464;
