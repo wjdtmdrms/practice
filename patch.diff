@@ -1,0 +1,13 @@
+diff --git a/hello.c b/hello.c
+index 4b204d9..90219ca 100644
+--- a/hello.c
++++ b/hello.c
+@@ -6,7 +6,7 @@ int main()
+ 	float conff = 1.1f;
+ 	int conflict = 5;
+ 
+-	int confliction = 1;
++	char[20] = "confliction deleted";
+ 
+ 	char[20] str = "float added";
+ 
