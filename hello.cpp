@@ -4,8 +4,6 @@ using namespace std;
 int main()
 {
     int i;
-	char[] ups = "upstring";
-	float ff = 0.231f;
-    cout << "hello, world" << endl;
+    cout << "commit 1" << endl;
     return 0;
 }
