@@ -9,6 +9,7 @@ int main()
 	char[20] conflictString = "no conflict";
 	char[20] conflictString = "no conflict";
 
+	int 1330;
 	adsdsaasads
 		cmnkdkadmasm
 		ewmqemqklekk
