@@ -6,7 +6,7 @@ int main()
 	float conff = 1.1f;
 	int conflict = 5;
 
-	char[10] str = "mastring";
+	char[10] str = "MergeString";
 
     printf("hello, world!\n");
     return 0;
