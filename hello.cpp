@@ -4,11 +4,7 @@ using namespace std;
 int main()
 {
     int i;
-    cout << "commit 3" << endl;
-
-	cout << "done??" << endl;
-
-    cout << "hello, world" << endl;
+    int test = 123;
 
     return 0;
 }
